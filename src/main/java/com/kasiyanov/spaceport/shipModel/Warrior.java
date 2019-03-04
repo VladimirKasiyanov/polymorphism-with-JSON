@@ -1,4 +1,4 @@
-package com.kasiyanov.spaceport.model;
+package com.kasiyanov.spaceport.shipModel;
 
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
